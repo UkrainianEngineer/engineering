@@ -3,5 +3,9 @@
 This project describes best Engineering practices, guidelines, recommendations.
 
 It should be useful for:
-- existing team: improve code base, maintainability, code quality
-- new teams: setup common code style, development process
+- Existing team: improve code base, maintainability, code quality
+- New teams: setup common code style, development process
+
+This manifesto contains:
+- Code style guides
+- Engineering best practices
